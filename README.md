@@ -70,3 +70,7 @@ Manually download the `obsidian.css`to your local `\.obsidian\themes\` and renam
 
 Issues and PRs are welcome.
 
+## Contact
+
+email: `zk.cui@foxmail.com`
+
