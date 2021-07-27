@@ -1,0 +1,29 @@
+/* let the file/folder title show in single line instead of multi lines while the color border will be in the left.
+*/
+/*START*/
+.nav-files-container{
+	overflow-x:auto;
+}
+
+.nav-file-title-content, .nav-folder-title-content{
+	white-space: nowrap !important;
+	text-overflow:clip;
+	overflow:visible;
+}
+
+.nav-file-title.is-being-dragged, .nav-file-title.is-active, body:not(.is-grabbing) .nav-file-title.is-active:hover, .nav-folder-title.is-being-dragged{
+	border-right:0px !important;
+	border-left: 3px solid #3eaf7c;
+    background-color: rgba(241, 243, 245, 0.92);		
+    color: #3eaf7c;
+	width:max-content;
+	min-width:100%;
+	padding-left:2px !important;
+}
+
+.nav-file:not(.is-active):hover .nav-file-title, .nav-folder-title:hover{
+	width:max-content;
+	min-width:100%;
+}
+
+/*END*/
