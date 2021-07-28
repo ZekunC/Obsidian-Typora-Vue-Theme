@@ -66,6 +66,8 @@ The font color, font size and all style is choosed elaborately to be as similar 
 | Download the css snippet `vertical lines of list-1.css`  to your local`\.obsidian\snippets\`additionally |
 | (The snippet is modified from [Blue Topaz #snippets ](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css#snippets)) |
 | ![img11](./README.assets/img11.gif)                          |
+| :warning: **WARNING**: This snippet might result in scrolling wrong in preview view even if in official default theme. |
+| ![img12](./README.assets/img12.gif)                          |
 
 ## Install
 
