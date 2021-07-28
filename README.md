@@ -56,9 +56,16 @@ The font color, font size and all style is choosed elaborately to be as similar 
 
 **Line or Border of Unordered/Ordered List in Both Editor View and Preview View**
 
-![img10](README.assets/img10.gif)
+| Border in Preview View            |
+| --------------------------------- |
+| Default                           |
+| ![img10](README.assets/img10.gif) |
 
-
+| Line in Preview View                                         |
+| ------------------------------------------------------------ |
+| Download the css snippet `vertical lines of list-1.css`  to your local`\.obsidian\snippets\`additionally |
+| (The snippet is modified from [Blue Topaz #snippets ](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css#snippets)) |
+| ![img11](./README.assets/img11.gif)                          |
 
 ## Install
 
