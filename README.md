@@ -73,8 +73,6 @@ The font color, font size and all style is choosed elaborately to be as similar 
 
 Manually download the `obsidian.css`to your local `\.obsidian\themes\` and rename it to `Obsidian-Typora-Vue.css`.
 
-(Hopefully, the theme can be added to community theme list someday !!!😃)
-
 ## Contributing
 
 Issues and PRs are welcome.
