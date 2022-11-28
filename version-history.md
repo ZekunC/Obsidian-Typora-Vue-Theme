@@ -2,6 +2,6 @@
 	- For Obsidian **v1.0** and later version.
 	- Rewrite code and only remain the most necessary styles.
 	- Screenshot and information see [README.md](README.md) . 
-- 2021.06.21: [v0.1](./history-version/v0.1.css)
+- 2021.07.27: [v0.1](./history-version/v0.1.css)
 	- The first version of this theme. 
 	- Screenshot and information see [README-v0.1.md](README-v0.1.md) . 
