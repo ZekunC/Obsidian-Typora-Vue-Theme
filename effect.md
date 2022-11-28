@@ -1,10 +1,14 @@
 #Github #Obsidian #Typora #Vue
 
-#important  #weeklynote
-
 ## Header 2
 
-[Obsidian](https://obsidian.md/) is a powerful **knowledge base** on top of  a ***local folder*** of plain text Markdown files.
+[Obsidian](https://obsidian.md/) is a powerful and extensible **knowledge base** that works on top of your ***local folder*** of plain text files.
+
+Left: Now you are on **source mode** editing view. 
+
+Mid: Now you are on **live preview** editing view.
+
+Right: Now you are on **reading** view.
 
 ### Header 3
 
@@ -12,53 +16,23 @@
 
 > This is a `blockquote`. 
 
-```ad-note
-This is  a note `admonition`.
+> [!note] 
+> Here's a `callout block`. 
+
+```java
+public class Main{
+	public static void main(String[] args){
+		int a = 123;
+	}
+}
 ```
 
-|id | name| url|dd|
+|id | name| url|other|
 |--|--|--|--|
-|1|Google|https://www.google.com https://www.google.com https://www.google.com |s|
-|2|Bing|https://www.bing.com https://www.bing.com https://www.bing.com  |s|
-|3|DuckDuckGo|https://duckduckgo.com |s|
+|1|Google|https://www.google.com| cool|
+|2|Bing|https://www.bing.com|cool|
+|3|DuckDuckGo|https://duckduckgo.com |cool|
 
-For more Details, please see  [[README]].
-
-
-- level 1
-	- item 1
-	- item 2
-		- ss
-			- dd
-				- dd
-			- ss
-	- level 2
-		- item 1
-		- item 2
-		- level 3
-			- item 1
-			- item 2
-			- level 4
-				- item 1
-
-[External Link to Obsidian](https://obsidian.md/)
-
-https://obsidian.md/
-
-[[README]]
-
-[README](README.md)
-
-[[No Match Found]]
-
-[No Match Found](No Match Found.md)
-
-1. level 1
-2. level 1
-	- level 2
-		- item 1
-		- item 2
-	- item 1
 
 
 
