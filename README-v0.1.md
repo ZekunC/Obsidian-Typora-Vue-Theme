@@ -1,7 +1,3 @@
-## Notice
-
-The **v0.1** theme version is out-of-date. Please see  [README](README.md) for the latest version.
-
 ## About
 
 [Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) (**v0.1**) is a theme for [Obsidian](https://obsidian.md/), which is inspired by [typora-vue-theme](https://github.com/blinkfox/typora-vue-theme), [obsidian_orange](https://github.com/iEchoxu/obsidian_orange) and [Blue Topaz](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css/).
