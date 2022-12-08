@@ -10,7 +10,7 @@ The file style is choosed  to be as similar with [typora-vue-theme](https://gith
 
 ## Screenshot
 
-![screenshot](obsidian-typora-vue.png)
+![screenshot](high-res.png)
 
 ## Feature
 
