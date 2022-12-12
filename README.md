@@ -1,6 +1,8 @@
 ## Notice
 
-Theme has been updated to version **v1.0**!
+🎉Theme can be downloaded from Obsidian community theme store now!
+
+✨Theme has been updated to version **v1.0**!
 
 ## About
 
@@ -49,7 +51,13 @@ Please see [version-history.md](./version-history.md).
 
 ## Install
 
-Manually download the `theme.css` to your local `\.obsidian\themes\` and rename it to `Obsidian-Typora-Vue.css`.
+### Community Theme Store (Recommended)
+
+Search `Typora-Vue` in Obsidian community theme store and download it.
+
+### Manually
+
+Manually download the `theme.css` or `obsidian.css` to your local `\.obsidian\themes\` and rename it to `Obsidian-Typora-Vue.css`.
 
 ## Contributing
 
