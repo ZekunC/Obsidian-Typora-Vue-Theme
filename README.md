@@ -32,6 +32,20 @@ Highlight the current cursor line in editing view.
 
 ![](./README.assets/img14.gif)
 
+### 4. Easily Change the Accent Color
+
+If you also try other theme color but still remain the rest style, you *ONLY* need to set the Accent Color as what you like from `Obsidian -> Settings -> Appearance -> Accent Color`.
+
+Some accent colors I recommend :
+
+`#e95f59` from [Drake-light in Typora](https://github.com/liangjingkanji/DrakeTyporaTheme)
+
+![](./drake-light.png)
+
+`#3884ff` from [Gitbook-Azure in Typora](https://github.com/h16nning/typora-gitbook-theme)
+
+![](./gitbook-azure.png)
+
 ## Color-pick-up
 
 ```txt
