@@ -16,23 +16,29 @@ The file style is choosed  to be as similar with [typora-vue-theme](https://gith
 
 ## Feature
 
-### 1. Less is More
+### 1. Eye Protection Color Snippet
+
+You may think that the pure white background color is too bright to read, so I give an [eye-protection-color.css snippet](./eye-protection-color.css) with modified gray color. You can use it **after installing this theme**.
+
+![](gray-color.png)
+
+### 2. Less is More
 
 Only modify the most necessary styles, such as color, blockquote, header font and so on. You can get the colors in [Color-pick-up](#Color-pick-up). 
 
-### 2. Hover on Header
+### 3. Hover on Header
 
 Available in both editing view and reading view.
 
 ![](README.assets/img13.gif)
 
-### 3. Highlight the Cursor Line
+### 4. Highlight the Cursor Line
 
 Highlight the current cursor line in editing view.
 
 ![](./README.assets/img14.gif)
 
-### 4. Easily Change the Accent Color
+### 5. Easily Change the Accent Color
 
 If you also try other theme color but still remain the rest style, you *ONLY* need to set the Accent Color as what you like from `Obsidian -> Settings -> Appearance -> Accent Color`.
 
