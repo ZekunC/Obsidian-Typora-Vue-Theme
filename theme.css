@@ -1,5 +1,5 @@
 /*
-[Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) (**v1.0**) is a theme for [Obsidian](https://obsidian.md/), which is inspired by [typora-vue-theme](https://github.com/blinkfox/typora-vue-theme)and [Blue Topaz](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css/).
+[Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) (**v1.0.1**) is a theme for [Obsidian](https://obsidian.md/), which is inspired by [typora-vue-theme](https://github.com/blinkfox/typora-vue-theme)and [Blue Topaz](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css/).
 */
 
 /* The primary color is #42b983 or #42b883.*/
@@ -10,7 +10,10 @@ body{
     --accent-l: 49%;
 	--icon-color-hover: hsl(var(--interactive-accent-hsl));	
 	--background-modifier-message: hsl(var(--interactive-accent-hsl));
+    --background-modifier-hover: hsla(var(--interactive-accent-hsl), 0.05);
+    --background-secondary: #ffffff;
 	--nav-item-color-hover: hsl(var(--interactive-accent-hsl));
+    --nav-item-color-active: hsl(var(--interactive-accent-hsl));
 	--code-background: #f8f8f8;
 	--table-header-weight: var(--bold-weight);
 	--table-header-color: var(--text-normal);
@@ -187,5 +190,16 @@ thead {
 }
 /*Cursor line END*/
 
+/*Hover Font color BEGIN*/
+.menu-item:hover:not(.is-disabled):not(.is-label), .suggestion-item.is-selected{
+	color: hsl(var(--interactive-accent-hsl));
+}
+/*Hover Font color END*/
 
-
+/*Navigator File BEGIN*/
+.nav-file-title.is-active{
+	border-radius:0;
+	border-left: 4px solid hsl(var(--interactive-accent-hsl));
+	padding-left: 4px;
+}
+/*Navigator File END*/

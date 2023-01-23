@@ -1,7 +1,10 @@
-- 2022-11.28: [v1.0](theme.css)  
+- 2023-01-23: [v1.0.1](./theme.css)
+	- Modify navigator background color and font color.
+	- Add navigator border color.
+	- Screenshot and information see [README.md](./README.md) .
+- 2022-11.28: [v1.0](./history-version/v1.0.css)  
 	- For Obsidian **v1.0** and later version.
 	- Rewrite code and only remain the most necessary styles.
-	- Screenshot and information see [README.md](README.md) . 
 - 2021.07.27: [v0.1](./history-version/v0.1.css)
 	- The first version of this theme. 
-	- Screenshot and information see [README-v0.1.md](README-v0.1.md) . 
+	- Screenshot and information see [./other/README-v0.1.md](./other/README-v0.1.md) . 

@@ -4,17 +4,12 @@
 
 [Obsidian](https://obsidian.md/) is a powerful and extensible **knowledge base** that works on top of your ***local folder*** of plain text files.
 
-Left: Now you are on **source mode** editing view. 
-
-Mid: Now you are on **live preview** editing view.
-
-Right: Now you are on **reading** view.
-
 ### Header 3
 
 #### Header 4
 
-> This is a `blockquote`. 
+> This is a `blockquote`.   
+> Some words...  
 
 > [!note] 
 > Here's a `callout block`. 
@@ -33,6 +28,6 @@ public class Main{
 |2|Bing|https://www.bing.com|cool|
 |3|DuckDuckGo|https://duckduckgo.com |cool|
 
-
+[README](README.md)
 
 

@@ -1,8 +1,3 @@
-img[alt*="center"]{
-	display:block;
-	margin: 0px auto;
-}
-
 body{
 	--eye-protection-color: #f1f1f1;
 	--background-primary : var(--eye-protection-color);

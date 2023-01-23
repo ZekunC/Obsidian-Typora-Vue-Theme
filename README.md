@@ -2,11 +2,11 @@
 
 🎉Theme can be downloaded from Obsidian community theme store now!
 
-✨Theme has been updated to version **v1.0**!
+✨Theme has been updated to version **v1.0.1**!
 
 ## About
 
-[Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) (**v1.0**) is a theme for [Obsidian](https://obsidian.md/), which is inspired by [typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) and [Blue Topaz](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css/).
+[Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) (**v1.0.1**) is a theme for [Obsidian](https://obsidian.md/), which is inspired by [typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) and [Blue Topaz](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css/).
 
 The file style is choosed  to be as similar with [typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) as possible so that you can use these two kinds of software simultaneously and switch in a low-cost way. 
 
@@ -18,13 +18,13 @@ The file style is choosed  to be as similar with [typora-vue-theme](https://gith
 
 ### 1. Eye Protection Color Snippet
 
-You may think that the pure white background color is too bright to read, so I give an [eye-protection-color.css snippet](./eye-protection-color.css) with modified gray color. You can use it **after installing this theme**.
+You may think that the pure white background color is too bright to read, so I give an [./other/eye-protection-color.css](./other/eye-protection-color.css) snippet with modified gray color. You can use it **after installing this theme**.
 
-![](gray-color.png)
+![](./README.assets/gray-color.png)
 
 ### 2. Less is More
 
-Only modify the most necessary styles, such as color, blockquote, header font and so on. You can get the colors in [Color-pick-up](#Color-pick-up). 
+Only modify the most necessary styles, such as color, blockquote, header font and so on. You can get the colors in [Color-picker](#Color-picker). 
 
 ### 3. Hover on Header
 
@@ -46,13 +46,13 @@ Some accent colors I recommend :
 
 `#e95f59` from [Drake-light in Typora](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
-![](./drake-light.png)
+![](./README.assets/drake-light.png)
 
 `#3884ff` from [Gitbook-Azure in Typora](https://github.com/h16nning/typora-gitbook-theme)
 
-![](./gitbook-azure.png)
+![](./README.assets/gitbook-azure.png)
 
-## Color-pick-up
+## Color-picker
 
 ```txt
 accent color: #42b883
