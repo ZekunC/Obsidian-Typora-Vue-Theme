@@ -1,6 +1,6 @@
 ![obsidian-typora-vue-high-res](./obsidian-typora-vue-high-res.png)
 
-[![theme](https://img.shields.io/badge/theme-Obsidian-blueviolet.svg?color=blueviolet)](https://obsidian.md/) [![GitHub issues](https://img.shields.io/github/issues/ZekunC/Obsidian-Typora-Vue-Theme.svg?color=orange)](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/issues) [![GitHub issues](https://img.shields.io/github/issues-closed/ZekunC/Obsidian-Typora-Vue-Theme.svg?color=brightgreen)](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/issues?q=is%3Aissue+is%3Aclosed) [![GitHub forks](https://img.shields.io/github/forks/ZekunC/Obsidian-Typora-Vue-Theme.svg?color=green)](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/network/members) [![GitHub stars](https://img.shields.io/github/stars/ZekunC/Obsidian-Typora-Vue-Theme.svg)](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/stargazers)
+[![theme](https://img.shields.io/badge/theme-Obsidian-blueviolet.svg?color=blueviolet)](https://obsidian.md/) [![GitHub issues](https://img.shields.io/github/issues/ZekunC/Obsidian-Typora-Vue-Theme.svg?color=orange)](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/issues) [![GitHub issues](https://img.shields.io/github/issues-closed/ZekunC/Obsidian-Typora-Vue-Theme.svg?color=green)](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/issues?q=is%3Aissue+is%3Aclosed) [![GitHub release](https://img.shields.io/github/release/ZekunC/Obsidian-Typora-Vue-Theme.svg?color=brightgreen)](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/releases) [![GitHub stars](https://img.shields.io/github/stars/ZekunC/Obsidian-Typora-Vue-Theme.svg)](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/stargazers) 
 
 ## Notice
 
@@ -81,7 +81,7 @@ Search `Typora-Vue` in Obsidian community theme store and download it.
 
 ### Manually
 
-Manually download the `theme.css` or `obsidian.css` to your local `\.obsidian\themes\` and rename it to `Obsidian-Typora-Vue.css`.
+Manually download the `theme.css` or `obsidian.css` from [Releases](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/releases) to your local `\.obsidian\themes\` and rename it to `Obsidian-Typora-Vue.css`.
 
 ## Contributing
 
