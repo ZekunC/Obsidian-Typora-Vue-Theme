@@ -4,25 +4,33 @@
 
 ## Notice
 
+🎈Dark mode is supported.
+
 🎉Theme can be downloaded from Obsidian community theme store now!
 
-✨Theme has been updated to version **v1.0.1**!
+✨Theme has been updated to version **v1.0.2**!
 
 ## About
 
-[Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) (**v1.0.1**) is a theme for [Obsidian](https://obsidian.md/), which is inspired by [typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) and [Blue Topaz](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css/).
+[Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) (**v1.0.2**) is a theme for [Obsidian](https://obsidian.md/), which is inspired by [typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) and [Blue Topaz](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css/).
 
 The file style is choosed  to be as similar with [typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) as possible so that you can use these two kinds of software simultaneously and switch in a low-cost way. 
 
 ## Screenshot
 
+- Light Mode
+
 ![screenshot](high-res.png)
+
+- Dark Mode
+
+![dark](high-res-dark.png)
 
 ## Feature
 
 ### 1. Eye Protection Color Snippet
 
-You may think that the pure white background color is too bright to read, so I give an [./other/eye-protection-color.css](./other/eye-protection-color.css) snippet with modified gray color. You can use it **after installing this theme**.
+You may think that the pure white background color in light mode is too bright to read, so I give an [./other/eye-protection-color.css](./other/eye-protection-color.css) snippet with modified gray color. You can use it after installing this theme in **light mode**.
 
 ![](./README.assets/gray-color.png)
 

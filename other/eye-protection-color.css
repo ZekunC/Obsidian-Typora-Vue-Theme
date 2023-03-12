@@ -21,7 +21,13 @@ body{
 }
 
 .cm-active.cm-line{
+	/* gray color*/
+	background:rgb(225 225 225 / 80%) !important;
+
+	/* orange color*/
+	/*
 	background:rgb(255 200 99 / 20%) !important
+	*/
 }
 
 table tr:nth-child(2n),
