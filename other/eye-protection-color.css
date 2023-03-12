@@ -1,15 +1,17 @@
-body{
+.theme-light{
 	--eye-protection-color: #f1f1f1;
 	--background-primary : var(--eye-protection-color);
 	--background-secondary: var(--eye-protection-color);
 	--background-modifier-hover: hsla(var(--interactive-accent-hsl), 0.1);
+	--titlebar-background-focused: #ffffff;
 	--text-normal: #000000;
 	--text-muted: var(--text-normal);
-	--tab-background-active: #f5f5f5;
-	--code-background: #e9e9e9;
-	--titlebar-background-focused: #ffffff;
 	--text-faint: #9b9b9b;
 	--collapse-icon-color: var(--text-normal);
+	--code-background: #e9e9e9;
+	--cus-table-gap-tr: #f6f6f6;
+	--tab-background-active: #f5f5f5;
+	--cus-highlight-cursor-line: rgba(225, 225, 225, 0.8); /*orange color is rgba(255, 200, 99, 0.2) */
 }
 
 .view-header{
@@ -17,20 +19,5 @@ body{
 }
 
 .view-header-title-container:not(.mod-at-end):after{
-	background: none;
-}
-
-.cm-active.cm-line{
-	/* gray color*/
-	background:rgb(225 225 225 / 80%) !important;
-
-	/* orange color*/
-	/*
-	background:rgb(255 200 99 / 20%) !important
-	*/
-}
-
-table tr:nth-child(2n),
-thead {
-    background-color: #f6f6f6;
+	background: linear-gradient(to right, transparent, var(--tab-background-active))
 }
