@@ -1,13 +1,15 @@
+- 2023-07-23: [v1.0.3](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/releases/tag/v1.0.3)
+  - fix navigator bug
 - 2023-03-12: [v1.0.2](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/releases/tag/v1.0.2)
-	- Dark mode is supported.
-	- Modify cursor line highlight color in eye-proction-color from orange to gray.
-	- Screenshot and information see [README.md](./README.md) 
+  - Dark mode is supported.
+  - Modify cursor line highlight color in eye-proction-color from orange to gray.
+  - Screenshot and information see [README.md](./README.md)
 - 2023-01-23: [v1.0.1](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/releases/tag/v1.0.1)
-	- Modify navigator background color and font color.
-	- Add navigator border color.
-- 2022-11.28: [v1.0](./history-version/v1.0.css)  
-	- For Obsidian **v1.0** and later version.
-	- Rewrite code and only remain the most necessary styles.
+  - Modify navigator background color and font color.
+  - Add navigator border color.
+- 2022-11.28: [v1.0](./history-version/v1.0.css)
+  - For Obsidian **v1.0** and later version.
+  - Rewrite code and only remain the most necessary styles.
 - 2021.07.27: [v0.1](./history-version/v0.1.css)
-	- The first version of this theme. 
-	- Screenshot and information see [./other/README-v0.1.md](./other/README-v0.1.md) . 
+  - The first version of this theme.
+  - Screenshot and information see [./other/README-v0.1.md](./other/README-v0.1.md) .
