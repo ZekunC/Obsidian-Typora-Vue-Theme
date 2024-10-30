@@ -8,11 +8,11 @@
 
 🎉Theme can be downloaded from Obsidian community theme store now!
 
-✨Theme has been updated to version **v1.0.3**!
+✨Theme has been updated to version **v1.0.4**!
 
 ## About
 
-[Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) (**v1.0.3**) is a theme for [Obsidian](https://obsidian.md/), which is inspired by [typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) and [Blue Topaz](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css/).
+[Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) (**v1.0.4**) is a theme for [Obsidian](https://obsidian.md/), which is inspired by [typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) and [Blue Topaz](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css/).
 
 The file style is choosed  to be as similar with [typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) as possible so that you can use these two kinds of software simultaneously and switch in a low-cost way. 
 
@@ -89,9 +89,8 @@ Search `Typora-Vue` in Obsidian community theme store and download it.
 
 ### Manually
 
-Manually download the `theme.css` or `obsidian.css` from [Releases](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/releases) to your local `\.obsidian\themes\` and rename it to `Obsidian-Typora-Vue.css`.
+Manually download the `Typora-Vue.zip` from [Releases](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/releases) to your local `\.obsidian\themes\` and unzip it.
 
 ## Contributing
 
 Issues and PRs are welcome.
-

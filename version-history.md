@@ -1,3 +1,5 @@
+- 2024-10-30: [v1.0.4](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/releases/tag/v1.0.4)
+  - fix code color in list ([Issue #15](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/issues/15))
 - 2023-07-23: [v1.0.3](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/releases/tag/v1.0.3)
   - fix navigator bug
 - 2023-03-12: [v1.0.2](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme/releases/tag/v1.0.2)
